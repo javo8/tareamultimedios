@@ -1,3 +1,7 @@
 C:\Users\Javo\AndroidstudioProjects\Control-1-Multimedios-master1\app\build\intermediates\classes\debug
+C:\Users\Javo\AndroidstudioProjects\Control-1-Multimedios-master1\app\build\intermediates\pre-dexed\debug\support-annotations-20.0.0-aab4b872128c50acfbb366d6c3a9b17de5eb45f5.jar
+C:\Users\Javo\AndroidstudioProjects\Control-1-Multimedios-master1\app\build\intermediates\pre-dexed\debug\bolts-android-1.1.2-da075ac22590f8900b6394ec43277ac3c949514d.jar
 C:\Users\Javo\AndroidstudioProjects\Control-1-Multimedios-master1\app\build\intermediates\pre-dexed\debug\volley-7b25252b1dfd426a5435f9130869389fb790c0e1.jar
-C:\Users\Javo\AndroidstudioProjects\Control-1-Multimedios-master1\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-6e2409c9769f88c312ea8a3b3a31a633e5687944.jar
+C:\Users\Javo\AndroidstudioProjects\Control-1-Multimedios-master1\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-e72554414e4eee98ee3b51a0f2296146e022cb5c.jar
+C:\Users\Javo\AndroidstudioProjects\Control-1-Multimedios-master1\app\build\intermediates\pre-dexed\debug\classes-534bfc496429096038daaddfcfef00145c3cbf4c.jar
+C:\Users\Javo\AndroidstudioProjects\Control-1-Multimedios-master1\app\build\intermediates\pre-dexed\debug\classes-bf2ce88f29979502902ba1ebe2813f0c9dbe349a.jar

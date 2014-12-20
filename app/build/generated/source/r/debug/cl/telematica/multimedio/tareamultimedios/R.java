@@ -330,6 +330,7 @@ containing a value of this type.
         public static final int Image=0x7f080027;
         public static final int Points=0x7f080029;
         public static final int Title=0x7f080028;
+        public static final int authButton=0x7f08002a;
         public static final int bottom=0x7f080003;
         public static final int box_count=0x7f080000;
         public static final int button=0x7f080001;
@@ -389,6 +390,7 @@ containing a value of this type.
         public static final int com_facebook_usersettingsfragment=0x7f03000f;
         public static final int detalles=0x7f030010;
         public static final int list_row=0x7f030011;
+        public static final int main=0x7f030012;
     }
     public static final class string {
         public static final int app_name=0x7f060000;
