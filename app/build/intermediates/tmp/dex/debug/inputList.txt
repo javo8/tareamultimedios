@@ -1,0 +1,3 @@
+C:\Users\Javo\AndroidstudioProjects\Control-1-Multimedios-master1\app\build\intermediates\classes\debug
+C:\Users\Javo\AndroidstudioProjects\Control-1-Multimedios-master1\app\build\intermediates\pre-dexed\debug\volley-7b25252b1dfd426a5435f9130869389fb790c0e1.jar
+C:\Users\Javo\AndroidstudioProjects\Control-1-Multimedios-master1\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-6e2409c9769f88c312ea8a3b3a31a633e5687944.jar

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Javo\AndroidstudioProjects\Control-1-Multimedios-master1\app\libs\volley.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="C:\Users\Javo\AndroidstudioProjects\Control-1-Multimedios-master1\app\build\intermediates\pre-dexed\debug\volley-7b25252b1dfd426a5435f9130869389fb790c0e1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Javo\AppData\Local\Android\android-sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\Javo\AndroidstudioProjects\Control-1-Multimedios-master1\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-6e2409c9769f88c312ea8a3b3a31a633e5687944.jar" />
+    </item>
+
+</items>
